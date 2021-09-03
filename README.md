@@ -28,7 +28,7 @@ Tools and technologies
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
 
 <!--
 [![Stargazers repo roster for @G-Souza-99/G-Souza-99](https://reporoster.com/stars/G-Souza-99/G-Souza-99)](https://github.com/G-Souza-99/G-Souza-99/stargazers)
