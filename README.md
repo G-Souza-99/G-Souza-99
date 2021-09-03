@@ -2,6 +2,7 @@
 I'm a Fullstack developer from portugal!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Souza-99&theme=<THEME_NAME>" />
+[![G-Souza-99's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Souza-99)](https://github.com/G-Souza-99/github-readme-stats)
 
 <!--
 **G-Souza-99/G-Souza-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
