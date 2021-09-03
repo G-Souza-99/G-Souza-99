@@ -9,6 +9,15 @@ I'm a Fullstack developer from portugal!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=G-Souza-99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="G-Souza-99's GitHub Stats" />
 </a>
 
+<a href="https://github.com/G-Souza-99/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Souza-99&repo=PetHotel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<!--
+<a href="https://github.com/G-Souza-99/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Souza-99&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+-->
 Tools and technologies
 ---
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -21,18 +30,6 @@ Tools and technologies
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-
 <!--
-**G-Souza-99/G-Souza-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Stargazers repo roster for @G-Souza-99/G-Souza-99](https://reporoster.com/stars/G-Souza-99/G-Souza-99)](https://github.com/G-Souza-99/G-Souza-99/stargazers)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
