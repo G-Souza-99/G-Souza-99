@@ -13,7 +13,7 @@ I'm a Fullstack developer from portugal!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Souza-99&repo=PetHotel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/G-Souza-99/BreedM">
+<a href="https://github.com/G-Souza-99/BreedMe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Souza-99&repo=BreedMe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
