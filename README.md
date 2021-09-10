@@ -19,7 +19,7 @@ if you see anything you like send me a message on my  <a href="https://www.linke
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Souza-99&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
 <a href="https://github.com/G-Souza-99/G-Souza-99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=G-Souza-99&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs" alt="G-Souza-99's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=G-Souza-99&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="G-Souza-99's GitHub Stats" />
 </a>
 
 <a href="https://github.com/G-Souza-99/BreedMe">
