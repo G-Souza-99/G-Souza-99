@@ -1,6 +1,15 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a Fullstack developer from portugal!
 
+I learnt to code on a variety of courses, my latest, Le Wagon Bootcamp in which I developed my [favorite project](https://www.breedme.app) 
+My main coding languages are Ruby(Rails), JavaScript ES6, SQL
+I'm fullstack but I tend to lean more to front-end.
+
+if you see anything you like please send me a message on my [LinkedIn](https://www.linkedin.com/in/gabriel-souza-21b207155/)
+
+
+-----
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/G-Souza-99/G-Souza-99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Souza-99&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
