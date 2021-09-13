@@ -11,6 +11,10 @@ I learnt to code on a variety of courses, my latest, Le Wagon Bootcamp in which 
 
 if you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/gabriel-souza-21b207155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+Here's a random joke
+-------
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 -----
 
@@ -30,7 +34,8 @@ if you see anything you like send me a message on my  <a href="https://www.linke
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Souza-99&repo=PetHotel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-  
+<br>
+
 
 
 
@@ -44,6 +49,8 @@ Tools and technologies
 </div>
 <br>
 
+
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
@@ -53,6 +60,7 @@ Tools and technologies
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=G-Souza-99)
 
 <!--
 [![Stargazers repo roster for @G-Souza-99/G-Souza-99](https://reporoster.com/stars/G-Souza-99/G-Souza-99)](https://github.com/G-Souza-99/G-Souza-99/stargazers)
