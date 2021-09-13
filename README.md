@@ -9,7 +9,7 @@ I learnt to code on a variety of courses, my latest, Le Wagon Bootcamp in which 
 
 
 
-if you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/gabriel-souza-21b207155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+if you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/gabriel-souza-21b207155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 Here's a random joke
 -------
