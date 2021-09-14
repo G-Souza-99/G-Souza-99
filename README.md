@@ -1,7 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a Fullstack developer from portugal!
 
-I learnt to code on a variety of courses, my latest, Le Wagon Bootcamp in which I developed my [favorite project](https://www.breedme.app), my main coding languages are Ruby(Rails), JavaScript ES6, SQL. I'm fullstack but I tend to lean more to front-end.
+I learnt to code on a variety of courses, my latest, Le Wagon Bootcamp in which Im still developing my [favorite project](https://www.breedme.app), my main coding languages are Ruby(Rails), JavaScript ES6, SQL. I'm fullstack but I tend to lean more to front-end.
+
+I have two other smaller projects [pet hotel](https://petmotel.herokuapp.com) and [movie watch lists](https://rails-watch-list-gs.herokuapp.com)
 
 🚀 Always learning<br>
 🦄 Ask me about My <strong>projects</strong><br>
