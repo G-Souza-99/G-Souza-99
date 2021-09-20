@@ -1,69 +1,82 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a Fullstack developer from portugal!
 
-I learnt to code on a variety of courses, my latest, Le Wagon Bootcamp in which Im still developing my [favorite project](https://www.breedme.app), my main coding languages are Ruby(Rails), JavaScript ES6, SQL. I'm fullstack but I tend to lean more to front-end.
+I learnt to code on a variety of courses, my latest, Le Wagon Bootcamp in which I developed, produced and managed my [favorite project](https://www.breedme.app) with a team of 2 other people.<br>
+My main coding languages are Ruby(Rails), JavaScript, and SQL. I'm fullstack but I tend to lean more to front-end.
 
 I have two other smaller projects [pet hotel](https://petmotel.herokuapp.com) and [movie watch lists](https://rails-watch-list-gs.herokuapp.com)
 
 🚀 Always learning<br>
-🦄 Ask me about My <strong>projects</strong><br>
+🔭 Learning next: <strong>React</strong><br>
+🦄 Ask me about my: <strong>projects</strong><br>
 🎮 Easy topic for conversations: video-games<br>
+😄 Pronouns: He / Him / His<br>
 
 
+if you see anything you like send me a message on my <a href="https://www.linkedin.com/in/gsouzaa4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
-if you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/gabriel-souza-21b207155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+Tools and technologies
+---
+
+<div align='center'>
+  <img src="https://img.shields.io/badge/Tool-Office365-informational?style=flat&logo=microsoftoffice&logoColor=d33903&color=d33903">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=f9eaa7&color=f9eaa7">
+  <img src="https://img.shields.io/badge/Tool-Canva-informational?style=flat&logo=canva&logoColor=00bec6&color=00bec6">
+  <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=dd8a04&color=dd8a04">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=030305&color=030305">
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=00a8e8&color=00a8e8">
+  <br>
+  <img src="https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=rubyonrails&logoColor=e80e12&color=e80e12">
+  <img src="https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=e80e12&color=e80e12">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26">
+  <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6">
+  <br>
+  <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791">
+  <img src="https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=NPM&color=CB0000">
+  <img src="https://img.shields.io/badge/Tool-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB">
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032">
+  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717">
+   <br>
+  <img src="https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=6410ab&color=6410ab">
+  <img src="https://img.shields.io/badge/Style-Figma-informational?style=flat&logo=figma&color=A35139">
+  <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
+  <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
+</div>
+
+## &#x1f4c8; GitHub Stats
+<div align="center">
+  <a href="https://github.com/G-Souza-99/G-Souza-99">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Souza-99&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
+  </a>
+  <a href="https://github.com/G-Souza-99/G-Souza-99">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=G-Souza-99&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="G-Souza-99's GitHub Stats" />
+  </a>
+  <a href="https://github.com/G-Souza-99/BreedMe">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Souza-99&repo=BreedMe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>  
+  <a href="https://github.com/G-Souza-99/PetHotel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Souza-99&repo=PetHotel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+</div>
+<br>
 
 Here's a random joke
 -------
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
------
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/G-Souza-99/G-Souza-99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Souza-99&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
-</a>
-<a href="https://github.com/G-Souza-99/G-Souza-99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=G-Souza-99&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="G-Souza-99's GitHub Stats" />
-</a>
-
-<a href="https://github.com/G-Souza-99/BreedMe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Souza-99&repo=BreedMe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-
-<a href="https://github.com/G-Souza-99/PetHotel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Souza-99&repo=PetHotel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<br>
-
-
-
-
-Tools and technologies
----
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<div align="center"> 
+  Thank You for visiting my profile, see you next time!
+  <br>
+  <img src="https://profile-counter.glitch.me/G-Souza-99/count.svg" />
 </div>
-<br>
-
-
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=G-Souza-99)
 
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=G-Souza-99)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Stargazers repo roster for @G-Souza-99/G-Souza-99](https://reporoster.com/stars/G-Souza-99/G-Souza-99)](https://github.com/G-Souza-99/G-Souza-99/stargazers)
 
