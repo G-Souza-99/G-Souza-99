@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a Fullstack developer from portugal!
+I'm a Fullstack developer from Portugal 🇵🇹 
 
-I learnt to code on a variety of courses, my latest, Le Wagon Bootcamp in which I developed, produced and managed my [favorite project](https://www.breedme.app) with a team of 2 other people.<br>
-My main coding languages are Ruby(Rails), JavaScript, and SQL. I'm fullstack but I tend to lean more to front-end.
+I learnt to code on a variety of courses! In my latest, Le Wagon Bootcamp, I developed, produced and managed my [favorite project](https://www.breedme.app) with a team of 2 other people.<br>
+My main coding languages are Ruby(Rails), JavaScript, and SQL. At the moment, I consider myself fullstack but I tend to lean more towards frontend
 
 I have two other smaller projects [pet hotel](https://petmotel.herokuapp.com) and [movie watch lists](https://rails-watch-list-gs.herokuapp.com)
 
@@ -13,7 +13,9 @@ I have two other smaller projects [pet hotel](https://petmotel.herokuapp.com) an
 😄 Pronouns: He / Him / His<br>
 
 
-if you see anything you like send me a message on my <a href="https://www.linkedin.com/in/gsouzaa4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+if you see anything you like hit me with a message on my <a href="https://www.linkedin.com/in/gsouzaa4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
+Feel free to scoop around! :)
 
 Tools and technologies
 ---
