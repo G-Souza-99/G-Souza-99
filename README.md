@@ -7,7 +7,7 @@ My main coding languages are Ruby(Rails), JavaScript, and SQL. At the moment, I 
 I have two other smaller projects [pet hotel](https://petmotel.herokuapp.com) and [movie watch lists](https://rails-watch-list-gs.herokuapp.com)
 
 🚀 Always learning<br>
-🔭 Learning next: <strong>React</strong><br>
+🔭 Learning next: <strong>Angular</strong><br>
 🦄 Ask me about my: <strong>projects</strong><br>
 🎮 Easy topic for conversations: video-games<br>
 😄 Pronouns: He / Him / His<br>
