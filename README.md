@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a Fullstack developer from Portugal 🇵🇹 
+I'm a Fullstack developer from Portugal 🇵🇹  
 
 I learnt to code on a variety of courses! In my latest, Le Wagon Bootcamp, I developed, produced and managed my [favorite project](https://www.breedme.app) with a team of 2 other people.<br>
 My main coding languages are Ruby(Rails), JavaScript, and SQL. At the moment, I consider myself fullstack but I tend to lean more towards frontend
