@@ -10,7 +10,7 @@ I have two other smaller projects [pet hotel](https://petmotel.herokuapp.com) an
 🔭 Learning next: <strong>Angular</strong><br>
 🦄 Ask me about my: <strong>projects</strong><br>
 🎮 Easy topic for conversations: video-games<br>
-😄 Pronouns: He / Him / His<br>
+😄 Pronouns: He / Him / His<br> 
 
 
 if you see anything you like hit me with a message on my <a href="https://www.linkedin.com/in/gsouzaa4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
