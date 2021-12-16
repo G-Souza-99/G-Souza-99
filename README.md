@@ -2,7 +2,8 @@
 I'm a Fullstack developer from Portugal 🇵🇹  
 
 I learnt to code on a variety of courses! In my latest, Le Wagon Bootcamp, I developed, produced and managed my [Main Project](https://www.breedme.app) with a team of 2 other people.<br>
-My main coding languages are Ruby(Rails), JavaScript, and SQL. At the moment, I consider myself fullstack but I tend to lean more towards frontend
+
+I enjoy coding in JavaScript, currently falling in love with Angular.
 
 I have two other smaller projects [pet hotel](https://petmotel.herokuapp.com) and [movie watch lists](https://rails-watch-list-gs.herokuapp.com)
 
