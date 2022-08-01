@@ -1,7 +1,15 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a Fullstack developer from Portugal 🇵🇹  
+👋 Hi, my name is Gabriel!
 
-I learnt to code on a variety of courses! Currently undergoing Evolution Gaming Typescript Bootcamp.
+🌇 Lisbon Native, with a passion to develop new applications and to learn new technologies
+
+📚 In my past experiences I have developed a full Frontend ecosystem, from cross-application components to an in-house library to API's control. Usually work in small teams to develop web-apps. 
+
+💻 In the future I hope to possible work as a Lead Frontend Developer with people from multiple backgrounds
+
+🎮 In my free time you can usually find me playing new video games, and plannings new adventurous trips for my holidays.
+
+💪 Angular 13, REST api, Ruby, Typescript, JavaScript, SCSS, Bootstrap
 
 I enjoy coding in JavaScript, currently falling in love with Angular.
 
