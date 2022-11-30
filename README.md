@@ -16,13 +16,6 @@ I enjoy coding in JavaScript, currently falling in love with Angular.
 Side Projects I enjoyed Developing: [Pet-Matching & Breeding](https://www.breedme.app) , [movie watch lists](https://rails-watch-list-gs.herokuapp.com) , [pet hotel](https://petmotel.herokuapp.com)
 
 
-🚀 Always learning<br>  
-🔭 Learning next: <strong>Angular 13</strong><br>
-🦄 Ask me about my: <strong>projects</strong><br>
-🎮 Easy topic for conversations: video-games<br>
-😄 Pronouns: He / Him / His<br> 
-
-
 if you see anything you like hit me with a message on my <a href="https://www.linkedin.com/in/gsouzaa4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 Feel free to scoop around! :)
