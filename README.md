@@ -9,11 +9,9 @@
 
 🎮 In my free time you can usually find me playing new video games, and plannings new adventurous trips for my holidays.
 
-💪 Angular 13, REST api, Ruby, Typescript, JavaScript, SCSS, Bootstrap
+💪 Angular 13, React, REST api, Ruby, Typescript, JavaScript, SCSS, Bootstrap
 
 I enjoy coding in JavaScript, currently falling in love with Angular.
-
-Side Projects I enjoyed Developing: [Pet-Matching & Breeding](https://www.breedme.app) , [movie watch lists](https://rails-watch-list-gs.herokuapp.com) , [pet hotel](https://petmotel.herokuapp.com)
 
 
 if you see anything you like hit me with a message on my <a href="https://www.linkedin.com/in/gsouzaa4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
